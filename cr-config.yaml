@@ -1,0 +1,8 @@
+owner: lengrongfu
+git-repo: dify-chart
+package-path: .cr-release-packages
+charts-repo: https://lengrongfu.github.io/dify-chart
+index-path: .cr-index/index.yaml
+pages-branch: gh-pages
+release-name-template: "{{ .Version }}"
+skip-existing: true 
